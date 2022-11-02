@@ -1,6 +1,6 @@
-'# README #' 
+'# Git Basics #' 
 
-## Table of Contents
+Hello world, I love using git!
 
-- example_file.txt
+Making changes to the remote. Let's bring them down to the local 
 
